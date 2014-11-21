@@ -16,3 +16,10 @@ from stack: http://stackoverflow.com/questions/16263556/installing-java-7-on-ubu
 Then install this:
 
 https://github.com/technomancy/leiningen
+
+
+do lein self -install
+
+
+and follow
+    http://www.luminusweb.net/docs
