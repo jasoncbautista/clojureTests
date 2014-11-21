@@ -11,3 +11,8 @@ sudo apt-get install oracle-java7-set-default
 
 
 from stack: http://stackoverflow.com/questions/16263556/installing-java-7-on-ubuntu
+
+
+Then install this:
+
+https://github.com/technomancy/leiningen
